@@ -24,6 +24,6 @@ public class SimpleTest {
 	@Test
 	public void testDiv() {
 		Arithmetic calc = new Arithmetic();
-		assertEquals(calc.div(10, 2), 4);
+		assertEquals(calc.div(8, 2), 4);
 	}
 }
